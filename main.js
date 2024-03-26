@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function marqueStudent() {
-    const totallStudent = 700;
-    const comupterUseingStudent = 100;
-    const laptopUsersStudent = totallStudent - comupterUseingStudent;
+    var totallStudent = 700;
+    var comupterUseingStudent = 100;
+    var laptopUsersStudent = totallStudent - comupterUseingStudent;
     return laptopUsersStudent;
 }
 //invoking the function

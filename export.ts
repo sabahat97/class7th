@@ -1,4 +1,4 @@
-//basic of modules import and export modules
+//basic of modules import and export 
 function smartPhone(){
     
     
