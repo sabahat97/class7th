@@ -7,4 +7,4 @@ function marqueStudent(){
      
 }
 //invoking the function
-export default marqueStudent  //its make module 
+export default marqueStudent  
